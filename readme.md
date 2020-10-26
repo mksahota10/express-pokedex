@@ -21,12 +21,19 @@ We'll be using an existing application that uses the [PokeAPI](http://pokeapi.co
 #### Read the Code
 
 - After setup, **STOP**. You're using an existing application, so make sure to read the code and ensure what the application does. Answer these questions you may want to ask yourself:
-  - How does the app retrieve a list of Pokemon?
-  - How many Pokemon does the API call retrieve? Why that many?
+  - How does the app retrieve a list of Pokemon? index.js
+  - How many Pokemon does the API call retrieve? Why that many? 151.. slice 151 from the data 
   - What are the routes defined in the application?
+index/home list of poken with the open in index
+ two routes in contollers for favorites in pokemon.js
+ post. get fav and save to database 
   - Think about adding a Pokemon to your favorites.
     - How will this data be submitted?
+submitted in home page when usr click on the 
+
     - What will you have to do to save this data to a database?
+
+
     - What will you have to do to display favorite Pokemon?
 
 ## User Stories

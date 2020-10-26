@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://images.designtrends.com/wp-content/uploads/2015/11/06043811/Pokemon-Background-Designs43.jpg");
+    background-repeat: no-repeat;
+    background-color:black;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+    align-items: center;
+    width:100vw;
+   }
+   .well{
+       height:150px; 
+       width: 300px;
+       background-color: gray;
+   }
+   .text-center{
+       font-size:40px; 
+       color:red; 
+   }
